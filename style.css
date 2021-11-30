@@ -147,7 +147,6 @@ footer {
     font-size: 9vw;
   }
 
-  
   footer {
     bottom: 0;
   }
@@ -161,7 +160,7 @@ footer {
       width: 0;
     }
     to {
-      width: 22rem;
+      width: 25rem;
     }
   }
 }
