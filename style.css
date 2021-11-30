@@ -130,3 +130,9 @@ svg {
     border-right-color: transparent;
   }
 }
+
+footer{
+  position: absolute;
+  bottom: 10px;
+  color: wheat;
+}
