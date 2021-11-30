@@ -144,7 +144,7 @@ footer {
   }
 
   .line {
-    font-size: 9vw;
+    font-size: 6vw;
   }
 
   footer {
@@ -160,7 +160,7 @@ footer {
       width: 0;
     }
     to {
-      width: 29rem;
+      width: 16rem;
     }
   }
 }
