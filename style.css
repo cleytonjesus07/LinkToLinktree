@@ -131,8 +131,35 @@ svg {
   }
 }
 
-footer{
+footer {
   position: absolute;
   bottom: 10px;
   color: wheat;
+}
+
+@media (max-width: 600px) {
+  body {
+    height: 100vh;
+  }
+
+  .line {
+    font-size: 9vw;
+  }
+
+  footer {
+    bottom: 0;
+  }
+
+  img {
+    width: 150px;
+  }
+
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 22rem;
+    }
+  }
 }
