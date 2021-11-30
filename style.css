@@ -139,6 +139,7 @@ footer {
 
 @media (max-width: 600px) {
   body {
+    width: 100vw;
     height: 100vh;
   }
 
@@ -146,6 +147,7 @@ footer {
     font-size: 9vw;
   }
 
+  
   footer {
     bottom: 0;
   }
